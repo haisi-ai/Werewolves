@@ -80,7 +80,8 @@ python 狼人杀工具.py
 开始计算：点击对应的计算按钮查看结果
 
 界面布局
-<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/d42ec54e-1b0e-4b2d-9667-40ea81d26703" />
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/afb66dd3-3e76-4a4c-a0b4-b26fc57a1508" />
+
 
 功能详解
 📝 身份输入
