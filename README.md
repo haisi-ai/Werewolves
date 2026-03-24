@@ -1,4 +1,4 @@
-# 狼人杀工具 v1.0
+# 狼人杀工具 
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -168,7 +168,7 @@ Werewolves/
 
 ## 📝 更新日志
 
-### v1.0 (2026.03)
+###  (2026.03)
 - 重构为模块化设计（6 个独立类）
 - NumPy 加速，性能提升 10-20 倍
 - 新增进度条和缓存机制
